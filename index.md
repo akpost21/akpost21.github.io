@@ -15,3 +15,7 @@ I'm an ecosystem ecologist interested in how climate change impacts terrestrial 
 #### University of Maryland, College Park Campus
 
 <embed type="text/html" src="images/umd.html" width="600" height="600">
+
+#### Portfolio Posts
+
+[Climate coding challenge](/posts/climate_portfolio_post.html)
